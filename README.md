@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AustinYoung269
-- 👀 I’m interested in ... becoming the worlds greatest software engineer 
+- 👀 I’m interested in ... becoming a great software engineer 
 - 🌱 I’m currently learning ... everything - working on it...
 
 <!---
